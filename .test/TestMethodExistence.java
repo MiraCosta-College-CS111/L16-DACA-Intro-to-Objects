@@ -14,6 +14,21 @@ class TestMethodExistence {
             // {"test_method1", "MyClass1"},
             // {"test_method2", "MyClass2"},
             // {"test_method3", "MyClass3"}
+            {"setUscisNumer", "DACArecipient"},
+            {"getUscisNumer", "DACArecipient"},
+            {"setGivenName", "DACArecipient"},
+            {"getGivenName", "DACArecipient"},
+            {"setSurname", "DACArecipient"},
+            {"getSurname", "DACArecipient"},
+            {"setCountryOfOrigin", "DACArecipient"},
+            {"getCountryOfOrigin", "DACArecipient"},
+            {"setBirthday", "DACArecipient"},
+            {"getBirthday", "DACArecipient"},
+            {"setValidFromDate", "DACArecipient"},
+            {"getValidFromDate", "DACArecipient"},
+            {"setSex", "DACArecipient"},
+            {"getSex", "DACArecipient"},
+            {"setAll", "DACArecipient"}
     };
 
     @Test
